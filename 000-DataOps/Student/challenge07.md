@@ -1,11 +1,11 @@
-# What the Hack: DevOps 
+# What the Hack: DataOps 
 
-## Challenge 7 – Azure Repos: Branching & Policies
+## Challenge 6 – Configure DataBricks to use Git repo for Notebooks
 [Back](challenge06.md) - [Home](../readme.md) - [Next](challenge08.md)
 
 ### Introduction
 
-Now that we have a deployed instance of our code, we are likely going to get a request to add a feature to our code. To this we need to implement a branching strategy. Review the below articles on the basics of a Git branching strategy and the modified version Microsoft uses called Release Flow.
+Now that we have a repo for Data Factory, let's get DataBricks set up in that repo.
 
 1. [Git Branching Strategy](https://docs.microsoft.com/en-us/azure/devops/repos/git/git-branching-guidance?view=azure-devops)
 2. [GitHub Flow](https://guides.github.com/introduction/flow/)

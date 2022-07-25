@@ -42,7 +42,7 @@ In this hack you will solve a common challenge for companies automating their mo
    - Push branch to remote repo
    - PR changes to Main and discuss Pull Requests
    - Trigger build and release 
-- Challenge 5: **[DevOps with Data Bricks and Data Factory ](Student/05-scaling.md)**
+- Challenge 5: **[DevOps with Data Bricks and Data Factory ](Student/challenge05.md)**
    - Data Bricks and Data Factory development without DevOps
    - Configure Git repo with Data Factory
    - Discuss Git branching model in relation to Data Factory
@@ -54,14 +54,14 @@ In this hack you will solve a common challenge for companies automating their mo
    - Make a change on a branch
    - PR branch back to Main
    - Publish Main to Data Factory to kick off full CI/CD process   
-- Challenge 6: **[CI with Data Bricks](Student/06-deploymongo.md)**
+- Challenge 6: **[CI with Data Bricks](Student/challenge06.md)**
    - Configure DataBricks to use Git repo for Notebooks
    - Same repo as Data Factory
    - Discuss Git branching model in relation to Data Bricks
    - Discuss PR back to Main in Data Bricks
    - Add Data Bricks CI process to branch
    - Add Data Bricks to CI process on Main
-- Challenge 7: **[CD with Data Bricks](Student/07-updaterollback.md)**
+- Challenge 7: **[CD with Data Bricks](Student/challenge07.md)**
    - Add Data Bricks to CD process
    - Deploy Data Bricks
    - Make a change on a branch
